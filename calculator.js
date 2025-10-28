@@ -10,9 +10,14 @@ function divide(a, b){
     return a/b
 }
 
+function square(a){
+    return a*b
+}
+
 let a = 6
 let b = 3
 
 console.log("SUBTRACT: ", subtract(a, b))
 console.log("MULTIPLY: ", multiply(a, b))
 console.log("DIVIDE: ", divide(a, b))
+console.log("SQUARE: ", add(a))
